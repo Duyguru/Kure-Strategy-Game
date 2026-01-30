@@ -46,7 +46,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 🎮 Kullanım
+##  Kullanım
 
 ### Oyun Başlatma
 
@@ -221,7 +221,7 @@ Algoritma 4 farklı yönde kontrol yapar:
   - Rakibin 3 uyarı alması
 - **Oyun Durumu**: `oyun_bitti` flag'i ile kontrol edilir
 
-## 📸 Ekran Görüntüleri
+## Ekran Görüntüleri
 
 ![Ana Menü](screenshots/menu.png)
 *Ana menü ekranı*
@@ -231,17 +231,5 @@ Algoritma 4 farklı yönde kontrol yapar:
 
 ![Kurallar](screenshots/kurallar.png)
 *Oyun kuralları sayfası*
-
-> **Not**: Ekran görüntüleri `screenshots/` klasörüne eklenebilir.
-
-##  Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen:
-
-1. Bu projeyi fork edin
-2. Yeni bir branch oluşturun (`git checkout -b feature/yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin feature/yeni-ozellik`)
-5. Bir Pull Request oluşturun
 
 ---
